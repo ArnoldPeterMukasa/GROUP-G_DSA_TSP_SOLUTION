@@ -3,10 +3,16 @@ This repository showcases our group’s implementation of the Traveling Salesman
 
 # CONTRIBUTORS 🤝
 KARUNGI AISHA
+
 PETER ARNOLD MUKASA
+
 MENHYA JOSHUA KIBEDI
+
 NDAWULA HABIBAH
+
 AKELLO SUNDAY OBONYO
+
+
 Open for collaboration! Feel free to fork and contribute. 🚀
 
 📬 Contact
